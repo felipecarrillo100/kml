@@ -250,7 +250,7 @@
 
       <Placemark>
         <name>Luciad HQ</name>
-        <description><![CDATA[<img src="images/luciad.jpg" width="365" height="125"/>
+        <description><![CDATA[<img src="https://github.com/felipecarrillo100/kml/raw/master/images/luciad.jpg" width="365" height="125"/>
 <p>
 Luciad provides software solutions for building state-of-the-art Situational Awareness systems. Luciad’s mission is to provide best-of-class visualization, data fusion, and advanced data processing and analysis software, to help its customers turn superior Situational Awareness to their strategic competitive advantage. Luciad is an international high-tech software company with offices located in Leuven (Belgium), Washington DC (U.S.A.) and Paris (France).
 </p>
